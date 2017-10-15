@@ -10,7 +10,7 @@
 
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.mirza.farrukh</groupId>
+	<groupId>com.pdf</groupId>
 	<artifactId>html-pdf-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>HTML to PDF Service</name>
