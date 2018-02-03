@@ -8,7 +8,8 @@ import org.springframework.boot.context.web.SpringBootServletInitializer;
 import org.springframework.context.ApplicationContext;
 @SpringBootApplication
 public class Application extends SpringBootServletInitializer {
-
+	
+	//test auto build jenkins
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 		return builder.sources(Application.class);
